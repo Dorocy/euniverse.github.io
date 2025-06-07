@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">✨ 이주형의 Portfolio ✨</h1>
+  <h1 align="center">✨ 정은아의 Portfolio ✨</h1>
 
   <p align="center">
  <a href="https://github.com/congchu/portfolio-collection" >portfolio-collection</a> 템플릿을 활용하여 제작하였습니다.
